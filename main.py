@@ -74,6 +74,3 @@ def write_file(file, new_data):
 
 if __name__ == "__main__":
     a = run()
-
-
-# E:\Programmation_Python\Apprentissage\3d.txt
